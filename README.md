@@ -1,2 +1,2 @@
-# kit
-AST Arduino Kit manuals, example software, and development package releases
+# AST Arduino Kit
+Manuals, example software, and development package releases for the AST Arduino Kit
